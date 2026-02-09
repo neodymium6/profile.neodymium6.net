@@ -1,2 +1,14 @@
 # direnv environment data
 .direnv/
+
+# Hugo build output
+public/
+
+# Hugo resource cache
+resources/_gen/
+
+# Hugo build lock file
+.hugo_build.lock
+
+# macOS metadata
+.DS_Store
