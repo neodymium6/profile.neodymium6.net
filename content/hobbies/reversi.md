@@ -7,7 +7,7 @@ The game engine uses bitboard representation for fast move generation and search
 
 **Live Demo**: [Play Reversi in your browser](https://reversi.neodymium6.net)
 
-![Reversi web app gameplay screenshot](/images/hobbies/reversi/reversi-web-ui.png)
+![Reversi web app gameplay screenshot](/images/hobbies/reversi/reversi-web-ui.webp)
 
 ## Architecture {#architecture}
 The project is organized into six repositories, layered by responsibility:

@@ -7,7 +7,7 @@ title: "Homelab"
 I run a self-hosted homelab on Proxmox VE, fully automated with Infrastructure as Code.
 The entire stack—from VM provisioning to service deployment—is managed by Terraform and Ansible, requiring only a single `make all` command to deploy from scratch.
 
-![Homelab Grafana dashboard](/images/hobbies/homelab/homelab-grafana-dashboard.png)
+![Homelab Grafana dashboard](/images/hobbies/homelab/homelab-grafana-dashboard.webp)
 
 Source code: [[GitHub]](https://github.com/neodymium6/homelab)
 
