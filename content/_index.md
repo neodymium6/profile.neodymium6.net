@@ -24,9 +24,13 @@ Specific topics I am currently exploring include:
 
 ## Publications {#publications}
 
+### First-Author
+
 - **On the Optimal Reasoning Length for RL-Trained Language Models**
   Daisuke Nohara, Taishi Nakamura, Rio Yokota. arXiv:2602.09591, 2026.
   [[paper]](https://arxiv.org/abs/2602.09591)
+
+### Co-Authored
 
 - **Optimal Sparsity of Mixture-of-Experts Language Models for Reasoning Tasks**
   Taishi Nakamura, Satoki Ishikawa, Masaki Kawamura, Takumi Okamoto, Daisuke Nohara, Jun Suzuki, Rio Yokota. arXiv:2508.18672, 2025.
