@@ -4,6 +4,7 @@ title: "Reversi"
 ## Overview {#overview}
 A full-stack Reversi (Othello) project built from scratch—from a high-performance Rust game engine to a web app and AlphaZero-style AI training pipeline.
 The game engine uses bitboard representation for fast move generation and search. It is published as both a Rust crate and a Python package, and powers the web application and various AI experiments.
+As of February 14, 2026, ranked 24th on the [CodinGame Othello leaderboard](https://www.codingame.com/multiplayer/bot-programming/othello-1/leaderboard).
 
 **Live Demo**: [Play Reversi in your browser](https://reversi.neodymium6.net)
 
