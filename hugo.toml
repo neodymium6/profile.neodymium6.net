@@ -1,0 +1,47 @@
+baseURL = 'https://profile.neodymium6.net/'
+languageCode = 'en-us'
+title = 'Daisuke Nohara'
+theme = 'PaperMod'
+
+[params.assets]
+favicon = "profile.png"
+
+[params.profileMode]
+enabled = true
+title = "Daisuke Nohara"
+subtitle = "B4 @ Institute of Science Tokyo (Rio Yokota Lab) | Reasoning × RL for LLMs"
+contact = "Email: nohara [at] rio.scrc.iir.isct.ac.jp"
+imageUrl = "profile.png"
+imageWidth = 100
+imageHeight = 100
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/neodymium6"
+
+[[params.socialIcons]]
+name = "x"
+url = "https://x.com/D_Nohara"
+
+[[params.socialIcons]]
+name = "orcid"
+url = "https://orcid.org/0009-0000-5581-689X"
+
+[[params.socialIcons]]
+name = "dotfiles"
+url = "https://github.com/neodymium6/home-manager"
+
+[[menu.main]]
+name = "About"
+url = "/#about"
+weight = 10
+
+[[menu.main]]
+name = "Research Interests"
+url = "/#research-interests"
+weight = 20
+
+[[menu.main]]
+name = "Publications"
+url = "/#publications"
+weight = 30

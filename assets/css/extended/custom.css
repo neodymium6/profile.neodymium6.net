@@ -1,0 +1,43 @@
+.main .profile {
+  min-height: auto;
+  padding: calc(var(--gap) * 1.5) 0;
+}
+
+.profile .social-icons {
+  gap: 6px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.profile .profile-contact {
+  font-size: 14px;
+  color: var(--secondary);
+}
+
+.profile .social-icons a {
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 8px;
+}
+
+.profile .social-icon-image {
+  height: 26px;
+  width: 26px;
+  display: block;
+}
+
+.profile .social-icon-label {
+  font-size: 12px;
+  line-height: 1;
+  color: var(--secondary);
+}
+
+/* Tighten spacing between profile block and first section on home */
+.main .profile + .post-content {
+  margin-top: 8px;
+}
+
+.main .profile + .post-content h2:first-child {
+  margin-top: 8px;
+}
