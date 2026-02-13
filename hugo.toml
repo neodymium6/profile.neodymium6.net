@@ -17,6 +17,7 @@ imageHeight = 100
 
 [[params.socialIcons]]
 name = "github"
+title = "GitHub"
 url = "https://github.com/neodymium6"
 
 [[params.socialIcons]]
@@ -30,6 +31,7 @@ url = "https://scholar.google.com/citations?user=vosnzV0AAAAJ&hl=en"
 
 [[params.socialIcons]]
 name = "orcid"
+title = "ORCID"
 url = "https://orcid.org/0009-0000-5581-689X"
 
 [[params.socialIcons]]
