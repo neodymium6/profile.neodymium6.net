@@ -25,3 +25,8 @@ I am Daisuke Nohara, a B4 undergraduate student at the Institute of Science Toky
   Taishi Nakamura, Satoki Ishikawa, Masaki Kawamura, Takumi Okamoto, Daisuke Nohara, Jun Suzuki, Rio Yokota.
   arXiv:2508.18672, 2025.
   [[paper]](https://arxiv.org/abs/2508.18672)
+
+## Hobbies {#hobbies}
+
+- [Homelab](/hobbies/homelab/)
+- [Reversi](/hobbies/reversi/)
