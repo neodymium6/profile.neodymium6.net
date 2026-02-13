@@ -24,6 +24,11 @@ name = "x"
 url = "https://x.com/D_Nohara"
 
 [[params.socialIcons]]
+name = "googlescholar"
+title = "Google Scholar"
+url = "https://scholar.google.com/citations?user=vosnzV0AAAAJ&hl=en"
+
+[[params.socialIcons]]
 name = "orcid"
 url = "https://orcid.org/0009-0000-5581-689X"
 
