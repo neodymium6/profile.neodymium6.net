@@ -1,6 +1,6 @@
 # Personal Site
 
-Academic personal homepage built with Hugo and the PaperMod theme.
+Personal homepage built with Hugo and the PaperMod theme.
 
 ## Development
 
@@ -10,6 +10,15 @@ Academic personal homepage built with Hugo and the PaperMod theme.
   - `make build`
 - Clean generated files:
   - `make clean`
+
+## Docker
+
+- Build image (local baseURL):
+  - `make docker-build`
+- Run image:
+  - `make docker-run`
+- Visit:
+  - http://localhost:8080/
 
 ## Deployment
 
