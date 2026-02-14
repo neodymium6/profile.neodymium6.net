@@ -2,8 +2,18 @@
 
 Personal homepage built with Hugo and the PaperMod theme.
 
+## Prerequisites
+
+- Either:
+  - Install Hugo directly
+  - Install Nix and run `nix develop`
+- Optional:
+  - `direnv` for automatically loading the Nix dev shell (`use flake`)
+
 ## Development
 
+- Resolve dependencies (theme submodule):
+  - `make deps`
 - Run local server:
   - `make dev`
 - Build site:
