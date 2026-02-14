@@ -23,7 +23,10 @@ FROM hugo AS build
 ARG BASE_URL
 WORKDIR /site
 COPY . .
-RUN hugo --minify --environment production --baseURL "${BASE_URL}"
+RUN test -d themes/PaperMod \
+ && test -n "$(find themes/PaperMod -mindepth 1 -print -quit)" \
+ || (echo "ERROR: themes/PaperMod is missing or empty. Run: git submodule update --init --recursive" >&2 && exit 1)
+RUN hugo --minify --environment production --baseURL "${BASE_URL}" --panicOnWarning
 
 FROM nginx:1.27-alpine AS runtime
 COPY --from=build /site/public /usr/share/nginx/html
