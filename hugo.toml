@@ -9,7 +9,7 @@ favicon = "profile.png"
 [params.profileMode]
 enabled = true
 title = "Daisuke Nohara"
-subtitle = "B4 @ Institute of Science Tokyo (Rio Yokota Lab) | Reasoning × RL for LLMs"
+subtitle = "M1 @ Institute of Science Tokyo (Rio Yokota Lab) | Reasoning × RL for LLMs"
 contact = "Email: nohara [at] rio.scrc.iir.isct.ac.jp"
 imageUrl = "profile.png"
 imageWidth = 100
