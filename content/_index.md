@@ -16,6 +16,13 @@ I also enjoy building software systems as a hobby, from low-level Rust engines t
 - **Institute of Science Tokyo** (April 2026 – present)
   - School of Computing, Master's Program in Computer Science
 
+## Experience {#experience}
+
+- **National Institute of Informatics (NII)** — Research Assistant
+  - May 2026 – present · Remote, Tokyo, Japan
+- **Institute of Science Tokyo** — Research Assistant
+  - September 2025 – February 2026
+
 ## Research Interests {#research-interests}
 
 My research centers on improving and analyzing reasoning in large language models through reinforcement learning.
