@@ -5,7 +5,7 @@ title: "Home"
 ## About {#about}
 
 I am Daisuke Nohara, a first-year master's student at the [Institute of Science Tokyo](https://www.isct.ac.jp/en) (formerly Tokyo Institute of Technology), conducting research in the [Rio Yokota Laboratory](https://www.rio.gsic.titech.ac.jp/).
-My research focuses on reinforcement learning for improving reasoning in large language models, with a particular interest in understanding and controlling the reasoning behavior of RL-trained models.
+My research focuses on reinforcement learning for improving reasoning in large language models, with particular interests in controlling reasoning behavior and understanding the optimization principles behind stable and efficient RL post-training.
 
 I also enjoy building software systems as a hobby, from low-level Rust engines to self-hosted infrastructure.
 
@@ -16,6 +16,7 @@ Specific topics I am currently exploring include:
 
 - **Reasoning length control in RL-trained LLMs** — Investigating optimal output lengths that balance accuracy and computational cost during inference.
 - **Reasoning efficiency** — Reducing the computational cost of chain-of-thought reasoning while preserving answer quality.
+- **Optimization principles for LLM reinforcement learning** — Studying trust-region design, divergence regularization, and policy-update constraints for stable and efficient post-training.
 
 ## Publications {#publications}
 
