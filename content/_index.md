@@ -50,9 +50,7 @@ Specific topics I am currently exploring include:
 
 ## Activities {#activities}
 
-Conference presentations and other research activities.
-
-[View activities →](/activities/)
+Conference presentations and other research activities. [View activities →](/activities/)
 
 ## Hobbies {#hobbies}
 
