@@ -42,10 +42,10 @@ Specific topics I am currently exploring include:
 
 ## Education {#education}
 
-- **Institute of Science Tokyo** (April 2022 – March 2026)
-  - School of Computing, Department of Computer Science
 - **Institute of Science Tokyo** (April 2026 – present)
   - School of Computing, Master's Program in Computer Science
+- **Institute of Science Tokyo** (April 2022 – March 2026)
+  - School of Computing, Department of Computer Science
 
 ## Hobbies {#hobbies}
 
