@@ -21,15 +21,17 @@ Specific topics I am currently exploring include:
 
 ### First-Author
 
-- **On the Optimal Reasoning Length for RL-Trained Language Models**
-  Daisuke Nohara, Taishi Nakamura, Rio Yokota. arXiv:2602.09591, 2026.
-  [[paper]](https://arxiv.org/abs/2602.09591)
+- **On the Optimal Reasoning Length for RL-Trained Language Models**\
+  Daisuke Nohara, Taishi Nakamura, Rio Yokota. arXiv:2602.09591, 2026.\
+  Accepted at **AdaptFM**: Resource-Adaptive Foundation Model Inference (ICML 2026 Workshop).\
+  [[arXiv]](https://arxiv.org/abs/2602.09591) [[OpenReview]](https://openreview.net/forum?id=yxoylbLB7k) [[Workshop]](https://adaptfm.gitlab.io/)
 
 ### Co-Authored
 
-- **Optimal Sparsity of Mixture-of-Experts Language Models for Reasoning Tasks**
-  Taishi Nakamura, Satoki Ishikawa, Masaki Kawamura, Takumi Okamoto, Daisuke Nohara, Jun Suzuki, Rio Yokota. arXiv:2508.18672, 2025.
-  [[paper]](https://arxiv.org/abs/2508.18672)
+- **Optimal Sparsity of Mixture-of-Experts Language Models for Reasoning Tasks**\
+  Taishi Nakamura, Satoki Ishikawa, Masaki Kawamura, Takumi Okamoto, Daisuke Nohara, Jun Suzuki, Rio Yokota. arXiv:2508.18672, 2025.\
+  Accepted at **ICLR 2026** (Oral).\
+  [[arXiv]](https://arxiv.org/abs/2508.18672) [[OpenReview]](https://openreview.net/forum?id=XFw2EPRUUR)
 
 ## Experience {#experience}
 
