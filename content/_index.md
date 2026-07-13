@@ -48,6 +48,12 @@ Specific topics I am currently exploring include:
 - **Institute of Science Tokyo** (April 2022 – March 2026)
   - School of Computing, Department of Computer Science
 
+## Activities {#activities}
+
+Conference presentations and other research activities.
+
+[View activities →](/activities/)
+
 ## Hobbies {#hobbies}
 
 - [Reversi](/hobbies/reversi/)
