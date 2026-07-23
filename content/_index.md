@@ -38,6 +38,8 @@ Specific topics I am currently exploring include:
 
 - **National Institute of Informatics (NII)** — Research Assistant
   - May 2026 – present · Remote, Tokyo, Japan
+- **DubGuild** — Research Intern
+  - April 2026 – present
 - **Institute of Science Tokyo** — Research Assistant
   - September 2025 – February 2026
 
