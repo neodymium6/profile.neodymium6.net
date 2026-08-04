@@ -34,6 +34,12 @@ Specific topics I am currently exploring include:
   Accepted at **ICLR 2026** (Oral).\
   [[arXiv]](https://arxiv.org/abs/2508.18672) [[OpenReview]](https://openreview.net/forum?id=XFw2EPRUUR)
 
+## Technical Writing {#technical-writing}
+
+- **Post-Training a Japanese Speech Foundation Model: Applying Reinforcement Learning to TTS**\
+  DubGuild Tech Blog, July 2026.\
+  [[Article (Japanese)]](https://blog.dubguild.com/melte/posttrain/)
+
 ## Experience {#experience}
 
 - **National Institute of Informatics (NII)** — Research Assistant
