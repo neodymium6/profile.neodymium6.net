@@ -44,7 +44,7 @@ url = "/#about"
 weight = 10
 
 [[menu.main]]
-name = "Research Interests"
+name = "Research"
 url = "/#research-interests"
 weight = 20
 
@@ -57,8 +57,3 @@ weight = 30
 name = "Experience"
 url = "/#experience"
 weight = 40
-
-[[menu.main]]
-name = "Education"
-url = "/#education"
-weight = 50
