@@ -4,7 +4,7 @@ title: "Home"
 
 ## About {#about}
 
-I am Daisuke Nohara, a first-year master's student at the [Institute of Science Tokyo](https://www.isct.ac.jp/en) (formerly Tokyo Institute of Technology), conducting research in the [Rio Yokota Laboratory](https://www.rio.gsic.titech.ac.jp/).
+I am Daisuke Nohara, a first-year master's student at the [Institute of Science Tokyo](https://www.isct.ac.jp/en) (formerly Tokyo Institute of Technology), conducting research in the [Rio Yokota Laboratory](https://www.rio.scrc.iir.isct.ac.jp/en/).
 My research focuses on reinforcement learning for improving reasoning in large language models, with particular interests in controlling reasoning behavior and understanding the optimization principles behind stable and efficient RL post-training.
 
 I also enjoy building software systems as a hobby, from low-level Rust engines to self-hosted infrastructure.
