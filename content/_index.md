@@ -42,11 +42,11 @@ Specific topics I am currently exploring include:
 
 ## Experience {#experience}
 
-- **National Institute of Informatics (NII)** — Research Assistant
+- **[National Institute of Informatics (NII)](https://www.nii.ac.jp/en/)** — Research Assistant
   - May 2026 – present · Remote, Tokyo, Japan
-- **DubGuild** — Research Intern
+- **[DubGuild](https://dubguild.com/)** — Research Intern
   - April 2026 – present
-- **Institute of Science Tokyo** — Research Assistant
+- **[Institute of Science Tokyo](https://www.isct.ac.jp/en)** — Research Assistant
   - September 2025 – February 2026
 
 ## Education {#education}
