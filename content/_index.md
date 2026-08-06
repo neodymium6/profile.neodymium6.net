@@ -43,20 +43,20 @@ Specific topics I am currently exploring include:
 ## Experience {#experience}
 
 - **[Preferred Networks, Inc.](https://www.preferred.jp/en/)** — Summer Intern
-  - August 2026 – present
+  - Aug 2026 – Present
 - **[National Institute of Informatics (NII)](https://www.nii.ac.jp/en/)** — Research Assistant
-  - May 2026 – present
+  - May 2026 – Present
 - **[DubGuild](https://dubguild.com/)** — Research Intern
-  - April 2026 – present
+  - Apr 2026 – Present
 - **[Institute of Science Tokyo](https://www.isct.ac.jp/en)** — Research Assistant
-  - September 2025 – February 2026
+  - Sep 2025 – Feb 2026
 
 ## Education {#education}
 
-- **Institute of Science Tokyo** (April 2026 – present)
-  - School of Computing, Master's Program in Computer Science
-- **Institute of Science Tokyo** (April 2022 – March 2026)
-  - School of Computing, Department of Computer Science
+- **[Institute of Science Tokyo](https://www.isct.ac.jp/en)** — Master's Program in Computer Science
+  - Apr 2026 – Present
+- **[Institute of Science Tokyo](https://www.isct.ac.jp/en)** — Department of Computer Science
+  - Apr 2022 – Mar 2026
 
 ## Activities {#activities}
 
