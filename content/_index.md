@@ -42,8 +42,10 @@ Specific topics I am currently exploring include:
 
 ## Experience {#experience}
 
+- **[Preferred Networks, Inc.](https://www.preferred.jp/en/)** — Summer Intern
+  - August 2026 – present
 - **[National Institute of Informatics (NII)](https://www.nii.ac.jp/en/)** — Research Assistant
-  - May 2026 – present · Remote, Tokyo, Japan
+  - May 2026 – present
 - **[DubGuild](https://dubguild.com/)** — Research Intern
   - April 2026 – present
 - **[Institute of Science Tokyo](https://www.isct.ac.jp/en)** — Research Assistant
