@@ -36,6 +36,10 @@ Specific topics I am currently exploring include:
 
 ## Technical Writing {#technical-writing}
 
+- **Learning Summary-Based Context Compression in LLMs**\
+  Preferred Networks Tech Blog, October 2026.\
+  [[Article (Japanese)]](https://preferred.jp/ja/blog/tech/i26-da-nohara-llm-context-compression)
+
 - **Post-Training a Japanese Speech Foundation Model: Applying Reinforcement Learning to TTS**\
   DubGuild Tech Blog, July 2026.\
   [[Article (Japanese)]](https://blog.dubguild.com/melte/posttrain/)

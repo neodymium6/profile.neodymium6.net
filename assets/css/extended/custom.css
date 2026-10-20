@@ -50,6 +50,11 @@
   margin-top: 8px;
 }
 
+/* Separate articles in the Technical Writing section. */
+.post-content #technical-writing + ul > li + li {
+  margin-top: 16px;
+}
+
 /* Widen content area for hobbies articles. */
 body.section-hobbies .main {
   max-width: calc(920px + var(--gap) * 2);
