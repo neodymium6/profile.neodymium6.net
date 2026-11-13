@@ -41,8 +41,8 @@ Specific topics I am currently exploring include:
   [[Article (Japanese)]](https://preferred.jp/ja/blog/tech/i26-da-nohara-llm-context-compression)
 
 - **Post-Training a Japanese Speech Foundation Model: Applying Reinforcement Learning to TTS**\
-  DubGuild Tech Blog, July 2026.\
-  [[Article (Japanese)]](https://blog.dubguild.com/melte/posttrain/)
+  DubGuild Tech Blog (now higurashi), July 2026.\
+  [[Article (Japanese)]](https://blog.higurashi.ai/melte/posttrain/)
 
 ## Experience {#experience}
 
@@ -50,7 +50,7 @@ Specific topics I am currently exploring include:
   - May 2026 – Present
 - **[Preferred Networks, Inc.](https://www.preferred.jp/en/)** — Summer Intern
   - Aug 2026 – Sep 2026
-- **[DubGuild](https://dubguild.com/)** — Research Intern
+- **[higurashi (formerly DubGuild)](https://www.higurashi.ai/)** — Research Intern
   - Apr 2026 – Aug 2026
 - **[Institute of Science Tokyo](https://www.isct.ac.jp/en)** — Research Assistant
   - Sep 2025 – Feb 2026
