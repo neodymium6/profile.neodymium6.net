@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-ARG HUGO_VERSION=0.155.2
+ARG HUGO_VERSION=0.170.1
 ARG BASE_URL=https://profile.neodymium6.net/
 
 FROM debian:bookworm-slim AS hugo
@@ -9,9 +9,8 @@ ARG TARGETARCH
 RUN apt-get update && apt-get install -y --no-install-recommends ca-certificates wget tar \
  && rm -rf /var/lib/apt/lists/* \
  && case "${TARGETARCH}" in \
-      amd64) HUGO_ARCH="Linux-64bit" ;; \
-      arm64) HUGO_ARCH="Linux-ARM64" ;; \
-      arm) HUGO_ARCH="Linux-ARM" ;; \
+      amd64) HUGO_ARCH="linux-amd64" ;; \
+      arm64) HUGO_ARCH="linux-arm64" ;; \
       *) echo "Unsupported TARGETARCH=${TARGETARCH}" && exit 1 ;; \
     esac \
  && wget -O /tmp/hugo.tar.gz \
@@ -29,4 +28,5 @@ RUN test -d themes/PaperMod \
 RUN hugo --minify --environment production --baseURL "${BASE_URL}" --panicOnWarning
 
 FROM nginx:1.30.7-alpine AS runtime
+RUN apk upgrade --no-cache libcrypto3 libssl3 zlib
 COPY --from=build /site/public /usr/share/nginx/html
