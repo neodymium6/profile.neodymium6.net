@@ -28,5 +28,5 @@ RUN test -d themes/PaperMod \
  || (echo "ERROR: themes/PaperMod is missing or empty. Run: git submodule update --init --recursive" >&2 && exit 1)
 RUN hugo --minify --environment production --baseURL "${BASE_URL}" --panicOnWarning
 
-FROM nginx:1.27-alpine AS runtime
+FROM nginx:1.30.7-alpine AS runtime
 COPY --from=build /site/public /usr/share/nginx/html
