@@ -1,5 +1,5 @@
 baseURL = 'https://profile.neodymium6.net/'
-languageCode = 'en-us'
+locale = 'en-US'
 title = 'Daisuke Nohara'
 theme = 'PaperMod'
 
